@@ -2,7 +2,7 @@
 
 A Javascript library for parsing cubing notation into an easy to process format.
 
-# Example:
+## Example:
 
 ```
 var algorithm = "(UR)2 RU (U)2";
