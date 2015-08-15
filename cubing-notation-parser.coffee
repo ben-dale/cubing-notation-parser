@@ -1,4 +1,4 @@
-CubingNotationParser =
+window.CubingNotationParser =
 
 	isNumber: (n) -> 
 		!isNaN(parseFloat(n)) && isFinite(n)
