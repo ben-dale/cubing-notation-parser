@@ -2,6 +2,12 @@
 
 A Javascript library for parsing cubing notation into an easy to process format.
 
+Just download [the javascript](https://github.com/ben-dale/cubing-notation-parser/blob/master/cubing-notation-parser.js) and add it to your project:
+
+```
+<script src='cubing-notation-parser.js'></script>
+```
+
 ## Example:
 
 ```
